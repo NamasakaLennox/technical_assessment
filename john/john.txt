@@ -1,0 +1,49 @@
+Personal Information
+Name: John Doe
+
+Date of Birth: July 15, 1989
+
+Age: 34
+
+Gender: Male
+
+Occupation
+Job: Graphic Designer
+
+Place of Work: Creative Design Studio Inc.
+
+Education
+Bachelor's in Fine Arts
+
+Location
+Country: United States
+
+State: California
+
+City: San Francisco
+
+Zip Code: 94103
+
+Hobbies and Interests
+Hobbies: Photography, Hiking, Reading
+
+Favorite Music: Jazz, Classical
+
+Favorite Movies: Inception, The Grand Budapest Hotel
+
+Languages Spoken
+English, Spanish
+
+Pet Information
+Pet Type: Dog
+
+Name: Buddy
+
+Breed: Golden Retriever
+
+Social Media
+Facebook: john.doe34
+
+Instagram: john_the_designer
+
+Twitter: @johnD_tweets
