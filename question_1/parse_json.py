@@ -17,9 +17,9 @@ def encode_text(data):
     if isinstance(data, unicode):
         return data.encode('utf-8')
     elif isinstance(data, list):
-        return [encoder(item) for item in data]
+        return [encode_text(item) for item in data]
     elif isinstance(data, dict):
-        return {encoder(key): encoder(value)
+        return {encode_text(key): encode_text(value)
                 for key, value in data.iteritems()}
     else:
         return data
@@ -34,7 +34,7 @@ def parser(filename):
     """
     # open the file as read only
     with open(filename, "r") as f_open:
-        f_json = json.load(f_open)
+        f_json = load(f_open)
 
     output = encode_text(f_json)["user"]
 
